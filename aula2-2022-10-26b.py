@@ -1,4 +1,4 @@
-# Pede o nome do aluno e sua nota (de 0 a 10) e, se ele tirou nota 10, mostra "Você é bichão, mesmo..."
+# pede o nome do aluno e sua nota (de 0 a 10) e, se ele tirou nota 10, mostra "Você é bixão, mesmo..."
 nome = input("Qual o seu nome? ")
 nota = float(input("Qual foi a sua nota? "))
 
